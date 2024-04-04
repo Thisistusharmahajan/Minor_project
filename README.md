@@ -90,8 +90,5 @@ The Sorting Algorithm Visualizer window again has the option to change the searc
   * Make sudoku interactive
   * Add Pause/Resume button on every visualization
   
-## Contact
-Debdoot Roy Chowdhury - [LinkedIn](https://www.linkedin.com/in/debdootrc/) - roychowdhurydebdoot@gmail.com <br/>
-Project Link: [Algorithm Visualizer](https://github.com/DebRC/Algorithm-Visualizer)
 
 Thank You!
